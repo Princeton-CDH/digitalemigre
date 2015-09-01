@@ -12,7 +12,61 @@
             <p>Publication Information</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Information about the source</p>
+         	<biblStruct>
+         		<monogr>
+         			<title level="j">
+         				
+         			<seg type="main">Sintaksis</seg> </title>
+         			
+         			<respStmt>
+         				<resp>edt</resp>
+         				<name>Someone</name>
+         			</respStmt>
+         			<respStmt>
+         				<resp>edt</resp>
+         				<name>Someone else</name>
+         			</respStmt>
+         				<imprint>
+         					<biblScope unit="volume">1</biblScope>
+         					<biblScope unit="issue">1</biblScope>
+         					<date when-sio="YY=MM-DD">Date</date>
+         					<respStmt>
+         						<resp>prt</resp>
+         						<orgName>
+         							<name>Name</name>
+         							<address>
+         								<addrLine></addrLine>
+         							</address>
+         						</orgName>
+         					</respStmt>
+         					
+         					<respStmt>
+         						<resp>pbl</resp>
+         						<orgName>
+         							<name>Name</name>
+         							<address>
+         								<addrLine></addrLine>
+         							</address>
+         						</orgName>
+         					</respStmt>
+         					
+         					<respStmt>
+         						<resp>dst</resp>
+         						<orgName>
+         							<name>Name</name>
+         							<address>
+         								<addrLine></addrLine>
+         							</address>
+         						</orgName>
+         					</respStmt>
+    
+         				</imprint>
+         				
+         		</monogr>
+         		
+         	</biblStruct>
+         	
+     
          </sourceDesc>
       </fileDesc>
   </teiHeader>
