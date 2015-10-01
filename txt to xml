@@ -1,0 +1,27 @@
+##Script creates xml file based on txt file.
+
+s=''
+newnamel = []
+newname =''
+textfilel = [] 
+textfile = ''
+originalfilename = ''
+
+originalfilename = raw_input("Enter name of file: ")
+
+textfilel=list(originalfilename)
+textfilel.append(".txt")
+textfile = ''.join(textfilel)
+
+file = open(textfile, "r")
+for line in file:
+    s+=line
+file.close() 
+
+newnamel=list(originalfilename)
+newnamel.append(".xml")
+newname = ''.join(newnamel)
+
+file = open(newname, "w")
+file.write(s)
+file.close()
