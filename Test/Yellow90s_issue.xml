@@ -1,0 +1,620 @@
+ <?xml-modelhref="../../../Schema,%20CSS%20and%20Template%20Files/YB_schema2.rnc" type="application/relax-ng-compact-syntax"?><TEI><teiHeader><fileDesc><titleStmt><title>The Yellow Nineties Online</title><title>The Yellow Book: An Illustrated Quarterly, Volume 1 April 1894</title><title type="YBV1_all"/><editor><persName>Lorraine Janzen Kooistra</persName><persName>Dennis Denisoff</persName></editor></titleStmt><editionStmt><edition><date>2007</date></edition></editionStmt><publicationStmt><idno>YBV1</idno><publisher>The Yellow Nineties Online</publisher><pubPlace>Ryerson University</pubPlace><address><addrLine>English Department</addrLine><addrLine>350 Victoria Street,</addrLine><addrLine>Toronto ON,</addrLine><addrLine>M5B 2K3</addrLine><addrLine>Canada</addrLine></address><availability><p>Usable according to the Creative Commons License <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Attribution
+                            Non-commercial Share-alike</ref>.</p></availability></publicationStmt><sourceDesc><biblStruct><monogr><editor><persName>Henry Harland & Aubrey Beardsley</persName></editor><author>Various</author><title>The Yellow Book: An Illustrated Quarterly, Volume 1 April
+                            1894</title><imprint><publisher>Elkin Mathews & John Lane</publisher><pubPlace>London</pubPlace><publisher>Copeland & Day</publisher><pubPlace>Boston</pubPlace><date>April 1894</date><biblScope><emph rend="italics">The Yellow Book</emph> 1 (Apr. 1894).
+                                    <emph rend="italic">The Yellow Nineties Online</emph>. Ed.
+                                Dennis Denisoff and Lorraine Janzen Kooistra. Ryerson University,
+                                2010. Web. [Date of access].
+                                http://www.1890s.ca/HTML.aspx?s=YBV1_all.html </biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><encodingDesc><editorialDecl><p>Introduction. The Yellow Nineties Online publishes primary texts from the 1890s
+                    and secondary texts written by critics of fin-de-siècle culture. Both kinds of
+                    texts are marked up in TEI. As a dynamic structure, a scholarly website is
+                    always in process. Our decisions in selecting and presenting materials on The
+                    Yellow Nineties Online are governed by the following principles. Editorial
+                    Principles 1. Primary materials Our editorial method for the facsimile editions
+                    published here is informed by social-text editing principles. The editors
+                    understand text as including visual and verbal printed material, including
+                    non-referential physical elements such as page design, ornament, and binding. We
+                    view any text as the outcome of a collaborative process that has specific
+                    material manifestations at precise historical moments. We have chosen to
+                    reproduce The Yellow Book in facsimile form at its moment of first publication.
+                    The social moment—and our editorial horizon—is demarcated by the decade of the
+                    1890s as experienced in and around the London contexts of The Yellow Book’s
+                    contributors and associates. The project’s principal interest is in presenting
+                    the text’s physical components in its first edition, with attention to its
+                    production and reception. Copy-text for The Yellow Book and any other primary
+                    material edited on The Yellow Nineties Online is the first edition unless
+                    otherwise noted. The Yellow Book is presented in facsimile, using double-page
+                    opening of the flip-book function. In addition, the physical features, verbal
+                    texts, and visual images of each Yellow Book volume are marked up in TEI and
+                    available in both xml and PDF formats. Annotations to the facsimile edition are
+                    kept to a minimum. Commentary is available in the site’s associated secondary
+                    materials. 2. Secondary materials In addition to providing the publication
+                    vehicle for the marked-up facsimile edition of The Yellow Book, The Yellow
+                    Nineties Online is also an electronic publishing site for peer-reviewed material
+                    relating to The Yellow Book and fin-de-siècle cultural studies. Secondary
+                    material published on the site has three levels of review. First, the editors
+                    solicit and co-edit commentary from leading scholars in the field. Second, the
+                    site is overseen by an international Editorial Board of experts. Third, the site
+                    will be submitted to NINES (Networked Interface for Nineteenth-Century
+                    Electronic Scholarship) for blind vetting in 2011. Once accepted by NINES, The
+                    Yellow Nineties Online will be associated with a large consortium of electronic
+                    scholarship and available for aggregated searches online. At this time, the
+                    editors’ priority in selecting secondary material is to make available a
+                    biography for each person who contributed to, or was associated with, the
+                    individual volumes of The Yellow Book. Each of these biographies is accompanied
+                    by a list of writings by, and about, the contributor. The editors also seek to
+                    publish high-quality essays on relevant aspects of The Yellow Book’s production
+                    and reception as an illustrated periodical. We are particularly interested in
+                    material relating to the aesthetic, bibliographic, cultural, institutional,
+                    personal, and technological contexts of its publication. Editorial Guidelines
+                    for Contributors of Biographies 1. FORMAT and CONTENT TEMPLATE Person’s Name:
+                    FIRST, LAST (BIRTH AND DEATH DATE) (flush left) i.e. Ella D’Arcy (1851-1939)
+                    Biographical Entry: Begins flush left, immediately under person’s name. Left
+                    justified, single-spaced. 500 - 1000 words. Entries should include the
+                    following: a) Brief biographical details focusing on early education, training,
+                    and important influences. b) Extended commentary on career, including important
+                    contributions to literary, artistic, cultural, social and/or publishing history.
+                    Keep quotations from other sources to a minimum. c) Connections to key works,
+                    events, and participants of the Victorian fin de siècle particularly warrant
+                    mention. 2. STYLE All notes, essays, and other editorial apparatuses in The
+                    Yellow Nineties Online follow the MLA Style Guide (6th ed.). Book titles are
+                    italicized, not underlined. Comma before “and” in a serial list (i.e. red, gold,
+                    and green). The Yellow Book, not the Yellow Book. Acceptable abbrev.: YB
+                    Preferred font is Arial 12. The spelling standard is Canadian. </p></editorialDecl></encodingDesc><profileDesc><creation><date>1894</date></creation><langUsage><language ident="en">English</language></langUsage><textClass><keywords scheme="#lcsh"><list><item>English literature -- 19th century -- Periodicals</item><item>Great Britain -- Periodicals</item></list></keywords><keywords scheme="ninesGenre"><list><item>Periodical</item><item>Poetry</item><item>Fiction</item><item>Drama</item><item>Nonfiction</item><item>Visual Art</item><note>Possible genres: Architecture, Ephemera, Music, Poetry, Artifacts,
+                            Fiction, Nonfiction, Religion, Bibliography, History, Paratext, Review,
+                            Collection, Leisure, Periodical, Visual Art, Criticism, Letters,
+                            Philosophy, Translation, Drama, Life Writing, Photograph, Travel,
+                            Education, Manuscript, Citation, Book History, Politics, Reference
+                            Works, Family Life, Law, Folklore, Humor. Please include as many as
+                            apply. Place each in its own item tag </note></list></keywords></textClass></profileDesc></teiHeader><text><body><div n="YBV1_1im" type="image"><figure><graphic width="600px" height="850px" url="MediumImageDocs/Yellow Book Front Cover 600dpi.jpg"/><note n="YBV1_1im.n1"><title>Front Cover</title> YB1icon1 Front Cover Aubrey Beardsley Swan
+                        Electric Engraving Company April 1894 Front Cover 21 cm x 15.6 cm Poster
+                        style illustrative art Pen and Ink night female figure male figure bow
+                        people candle </note><head>Front Cover</head><figDesc>The cover is divided horizontally into three sections The upper section
+                        takes about 1 4 of the cover s space for the title details The Yellow Book
+                        An Illustrated Quarterly Volume I April 1894 In the bottom section about 1
+                        6th of the cover s space is dedicated to the publication and pricing details
+                        London Elkin Mathews & John Lane Boston Copeland & Day Price 5 Net
+                        The large central image features in the foreground the torso of a large
+                        smiling masked woman in a large black hat wearing a polka dot dress On the
+                        right there is a masked figure likely male positioned behind her shoulder
+                        his hat takes up half of the background A lit candle is in the bottom left
+                        corner Artist s signature is in the bottom right corner The image is
+                        vertically displayed and printed with black ink on yellow
+                        background</figDesc></figure><pb n="2"/><pb n="3"/><pb n="4"/></div><div n="YBV1_2toc" type="tableOfContents"><pb n="5"/><head><title level="a">Contents</title></head><p>Letterpress</p><p>I. <ref target="#YBV1_5pr">The Death of the Lion</ref> .. By <ref target="#HJA">Henry James</ref> .. <emph rend="italic">Page</emph> 7<lb/> II. <ref target="#YBV1_7po">Tree-Worship</ref> .. <ref target="#RGA">Richard Le
+                        Gallienne</ref> .. 57<lb/> III. <ref target="#YBV1_9pr">A Defence of
+                        Cosmetics</ref> .. <ref target="#MBE">Max Beerbohm</ref> .. 65<lb/> IV. <ref target="#YBV1_10po">Δαιμονζσμενος</ref> .. <ref target="#ABEN">Arthur
+                        Christopher Benson</ref> .. 83<lb/> V. <ref target="#YBV1_12pr">Irremediable</ref> .. <ref target="#EDA">Ella D'Arcy</ref> .. 87<lb/> VI.
+                        <ref target="#YBV1_14po">The Frontier</ref> .. <ref target="#WWA">William
+                        Watson</ref> .. 113<lb/> VII. <ref target="#YBV1_14po">Night on Curbar
+                        Edge</ref><lb/> VIII. <ref target="#YBV1_16pr">A Sentimental Cellar</ref> ..
+                        <ref target="#GSA">George Saintsbury</ref> .. 119<lb/> IX. <persName type="fictional"><ref target="#YBV1_18po">Stella Maris</ref></persName> ..
+                        <ref target="#ASY">Arthur Symons</ref> .. 129<lb/> X. <persName type="fictional"><ref target="#YBV1_20pr">Mercedes</ref></persName> .. <ref target="#HHA">Henry Harland</ref> .. 135<lb/> XI. <ref target="#YBV1_20pr">A
+                        Broken Looking-Glass</ref><lb/> XII. <foreign xml:lang="la"><ref target="#YBV1_22po">Alere Flammam</ref></foreign> .. <ref target="#EGO">Edmund Gosse</ref> .. 153<lb/> XIII. <ref target="#YBV1_22po">A Dream of
+                        November</ref><lb/> XIV. <ref target="#YBV1_24dr">The Dedication</ref> ..
+                        <ref target="#FSI">Fred M. Simpson</ref> .. 159<lb/> XV. <ref target="#YBV1_26pr">A Lost Masterpiece</ref> .. <ref target="#GEG">George
+                        Egerton</ref> .. 189<lb/> XVI. <ref target="#YBV1_28pr">Reticence in
+                        Literature</ref> .. <ref target="#AWA">Arthur Waugh</ref> .. 201<lb/> XVII.
+                        <ref target="#YBV1_30pr">Modern Melodrama</ref> .. <ref target="#HCR">Hubert
+                        Crackanthorpe</ref> .. 223<lb/> XVIII. <placeName type="city"><ref target="#YBV1_31po">London</ref></placeName> .. <ref target="#JDA">John
+                        Davidson</ref> .. 233 <lb/> XIX. <ref target="#YBV1_31po">Down-a-down</ref>.
+                    .. 235<lb/> XX. <ref target="#YBV1_32pr">The Love-Story of <persName type="fictional">Luigi <lb/><emph rend="indent"><emph rend="indent"/>Tansillo</emph></persName></ref> .. <ref target="#RGAR">Richard
+                        Garnett</ref>, LL.D. . 235<lb/> XXI. <ref target="#YBV1_34dr">The Fool's
+                        Hour</ref> .. <ref target="#PCR">John Oliver Hobbes</ref><lb/><emph rend="indent"><emph rend="indent"/><emph rend="indent"/><emph rend="indent"/><emph rend="indent"/><emph rend="indent"/><emph rend="indent"/><emph rend="indent"/>and <ref target="#GMO">George
+                            Moore</ref></emph> .. 253 <lb/></p><fw type="catchword">Pictures</fw><fw type="footer">The Yellow Book, — Vol. I.— April, 1894.</fw><pb n="6"/><p>Pictures</p><p>I. <ref target="#YBV1_4im">A Study</ref> .. By Sir <ref target="#FLE">Frederic
+                        Leighton</ref>,<lb/><emph rend="indent"><emph rend="indent"/><emph rend="indent"/><emph rend="indent"/><emph rend="indent"/><emph rend="indent"/><emph rend="indent"/>P.R.A.</emph><emph rend="indent"><emph rend="indent"/><emph rend="italic">
+                            Frontispiece</emph></emph><lb/> II. <ref target="#YBV1_6im"><foreign xml:lang="fr">L'Education Sentimentale</foreign></ref> .. <ref target="#ABE">Aubrey Beardsley</ref> .. <emph rend="italic">Page</emph>
+                    55<lb/> III. <ref target="#YBV1_8im"><foreign xml:lang="fr">Le Puy en
+                            Velay</foreign></ref> .. <ref target="#JPE">Joseph Pennell</ref> ..
+                    63<lb/> IV. <ref target="#YBV1_11im">The <placeName type="nonfictional">Old
+                            Oxford Music <lb/><emph rend="indent"><emph rend="indent"/>Hall</emph></placeName></ref>
+                    .. <ref target="#WSI">Walter Sickert</ref> .. 85<lb/> V. <ref target="#YBV1_13im">Portrait of a Gentleman</ref> .. <ref target="#WRO">Will
+                        Rothenstein</ref> .. 111<lb/> VI. <ref target="#YBV1_15im">The Reflected
+                        Faun</ref> .. <ref target="#LHO">Laurence Housman</ref> .. 117<lb/> VII.
+                        <ref target="#YBV1_17im">Night Piece</ref> .. <ref target="#ABE">Aubrey
+                        Beardsley</ref> .. 127<lb/> VIII. <ref target="#YBV1_19im">A Study</ref> ...
+                    Sir <ref target="#FLE">Frederic Leighton</ref>,<lb/><emph rend="indent"/><emph rend="indent"/><emph rend="indent"/><emph rend="indent"/><emph rend="indent"/><emph rend="indent"/> P.R.A. .. 133<lb/> IX. <ref target="#YBV1_21im">Portrait of a Lady</ref> ..<ref target="#WRO">Will Rothenstein</ref> ..
+                    151<lb/> X. <ref target="#YBV1_23im">Portrait of Mrs. Patrick <lb/><emph rend="indent"><emph rend="indent"/>Campbell</emph></ref> .. <ref target="#ABE">Aubrey Beardsley</ref> .. 157<lb/> XI. <ref target="#YBV1_25im">The Head of Minos</ref> .. <ref target="#JNE">J. T.
+                        Nettleship</ref> .. 187 <lb/> XII. <ref target="#YBV1_27im">Portrait of a
+                        Lady</ref> .. <ref target="#CFU">Charles W. Furse</ref> .. 199 <lb/> XIII.
+                        <ref target="#YBV1_29im">A Lady Reading</ref> .. <ref target="#WSI">Walter
+                        Sickert</ref> .. 221<lb/> XIV. <ref target="#YBV1_33im">A Book Plate</ref>
+                    .. <ref target="#ABE">Aubrey Beardsley</ref> .. 251<lb/> XV. <ref target="#YBV1_33im">A Book Plate</ref> .. <ref target="#RBE">R. Anning
+                        Bell</ref> .. 251<lb/></p></div><pb n="7"/><pb n="8"/><div n="YBV1_3im" type="image"><pb n="9"/><figure><graphic width="600px" height="850px" url="MediumImageDocs/0. The Yellow Book Title Page.jpg"/><note n="YBV1_3im.n1"><title>Title Page</title> YB1icon3 Aubrey Beardsley April 1894 Yellow Book
+                        Volume 1:title-page 14 cm x 3.8 cm Poster style illustrative art Pen and ink
+                        outdoor setting water tree grass branch female figure musician bow feather
+                        person musical instrument candle </note><head>Title Page</head><figDesc> Image is in vertical frame on extreme left facing letterpress The
+                        letterpress reads The Yellow Book An Illustrated Quarterly Volume I April
+                        1894 London Elkin Matthews & John Lane Boston Copeland & Day The
+                        image shows the back view of a woman with her face in profile She is shown
+                        full length wearing a long black dress and white feathered hat playing a
+                        piano lit by tapers outside The piano divides the image in half horizontally
+                        The lower half of the image is comprised of the piano keys and her dress The
+                        upper half of the image has two windswept trees in the middle ground and a
+                        river in background The image is vertically displayed</figDesc></figure></div><pb n="10"/><div><p><emph>BALLANTYNE PRESS <placeName type="city">London</placeName> &
+                        EDINBURGH</emph></p></div><div><pb n="11"/><head rend="case(title)align(left)size(16pt)"><title level="a">A Study-</title></head><byline rend="case(title)align(left)size(14pt)">By <docAuthor><ref target="#FLE"/>Sir Frederic Leighton, P.R.A.</docAuthor></byline><fw type="footer" rend="italic">Reproduced by the Swan Electric Engraving
+                    Company</fw><pb n="12"/></div><div n="YBV1_4im" type="image"><pb n="13"/><figure><graphic width="600px" height="850px" url="MediumImageDocs/1. Leighton A Study.jpg"/><note n="YBV1_4im.n1"><title>A Study</title> YB1icon4 A Study Frederic Leighton Swan Electric
+                        Engraving Company I April 1894 Frontispiece 16.5 cm x 11.4 cm Study drapery
+                        Chalk drawing classical androgyns people draperies hoods </note><head>A Study</head><figDesc> Image is a study of two adults of indeterminate gender shown full
+                        length in draperies The figure on the left is in the foreground shown in
+                        profile looking to the left this figure takes up half of the picture frame
+                        This figure s face is downcast resting on its hands a finger on the right
+                        hand is extended to touch its face The second adult is in the background to
+                        the right This draped figure is shown frontally Both figures have their
+                        hands clasped in a contemplative or praying manner The background is open
+                        The image is vertically displayed </figDesc></figure><pb n="14"/></div><div n="YBV1_5pr" type="prose"><pb n="15"/><head rend="case(title)align(left)size(18pt)"><title level="a">The Death of the Lion</title></head><byline>By <docAuthor><ref target="#HJA">Henry James</ref></docAuthor></byline></div><div type="part" n="1"><head type="part">I</head><space/><p><hi rend="dropcaps">I</hi><hi rend="all caps"> HAD</hi> simply, I suppose, a change of heart, and it must
+                    have<lb/> begun when I received my manuscript back from <persName type="fictional"><persName type="fictional">Mr.
+                        Pinhorn</persName></persName>.<lb/><persName type="fictional"><persName type="fictional">Mr.
+                        Pinhorn</persName></persName> was my chief, as he was called in the office:
+                    he<lb/> had accepted the high mission of bringing the paper up. This<lb/> was a
+                    weekly periodical, and had been supposed to be almost past<lb/> redemption when
+                    he took hold of it. It was <persName type="fictional">Mr. Deedy</persName> who
+                    had<lb/> let it down so dreadfully — he was never mentioned in the
+                    office<lb/> now save in connection with that misdemeanour. Young as I<lb/> was I
+                    had been in a manner taken over from <persName type="fictional">Mr.
+                        Deedy</persName>, who<lb/> had been owner as well as editor; forming part of
+                    a promiscuous<lb/> lot, mainly plant and office-furniture, which poor <persName type="fictional">Mrs. Deedy</persName>, in<lb/> her bereavement and
+                    depression, parted with at a rough valuation.<lb/> I could account for my
+                    continuity only on the supposition that<lb/> I had been cheap. I rather resented
+                    the practice of fathering<lb/> all flatness on my late protector, who was in his
+                    unhonoured<lb/> grave; but as I had my way to make I found matter enough
+                    for<lb/> complacency in being on a <q>"staff."</q> At the same time I was<lb/>
+                    aware that I was exposed to suspicion as a product of the old<lb/> lowering
+                    system. This made me feel that I was doubly bound to<lb/></p><fw type="catchword">have</fw><pb n="16"/><fw type="pageNum">8</fw><fw type="runningHead">The Death of the Lion</fw><p>have ideas, and had doubtless been at the bottom of my proposing<lb/> to
+                        <persName type="fictional">Mr. Pinhorn</persName> that I should lay my lean
+                    hands on <persName type="fictional">Neil Paraday</persName>.<lb/> I remember
+                    that he looked at me first as if he had never heard of<lb/> this celebrity, who
+                    indeed at that moment was by no means in the<lb/> middle of the heavens; and
+                    even when I had knowingly explained<lb/> he expressed but little confidence in
+                    the demand for any such<lb/> matter. When I had reminded him that the great
+                    principle on<lb/> which we were supposed to work was just to create the
+                    demand<lb/> we required, he considered a moment and then rejoined: <q>"I
+                        see;<lb/> you want to write him up."</q></p><p><q>"Call it that if you like."</q></p><p><q>"And what's your inducement?"</q></p><p><q>"Bless my soul — my admiration!"</q></p><p><persName type="fictional">Mr. Pinhorn</persName> pursed up his mouth. <q>"Is
+                        there much to be done<lb/> with him?"</q></p><p><q>"Whatever there is, we should have it all to ourselves for he <lb/> hasn't
+                        been touched."</q></p><p>This argument was effective, and <persName type="fictional">Mr.
+                        Pinhorn</persName> responded:</p><p><q>"Very well, touch him."</q> Then he added: <q>"But where can you<lb/> do
+                        it?"</q></p><p><q>"Under the fifth rib!"</q> I laughed.</p><p><persName type="fictional">Mr. Pinhorn</persName> stared. <q>"Where's
+                    that?"</q></p><p><q>"You want me to go down and see him?"</q> I inquired, when I<lb/> had enjoyed
+                    his visible search for this obscure suburb.</p><p><q>"I don't <q>"want"</q> anything — the proposal's your own. But you<lb/>
+                        must remember that that's the way we do things <emph rend="italic">now</emph>,"</q> said <persName type="fictional">Mr.<lb/>
+                        Pinhorn</persName>, with another dig at <persName type="fictional">Mr.
+                        Deedy</persName>.</p><p>Unregenerate as I was, I could read the queer implications<choice><sic>o</sic><corr> of</corr></choice><lb/> this speech. The present owner's superior virtue as well as
+                    his<lb/> deeper craft spoke in his reference to the late editor as one of<lb/>
+                    that baser sort who deal in false representations. <persName type="fictional">Mr. Deedy</persName><lb/></p><fw type="catchword">Mr. Deedy</fw><pb n="17"/><fw type="runningHead">By Henry James</fw><fw type="pageNum">9</fw><p>would as soon have sent me to call on <persName type="fictional">Neil
+                        Paraday</persName> as he would<lb/> have published a holiday-number; but
+                    such scruples presented<lb/> themselves as mere ignoble thrift to his successor,
+                    whose own<lb/> sincerity took the form of ringing door-bells and whose
+                    definition<lb/> of genius was the art of finding people at home. It was as if
+                        <persName type="fictional">Mr.<lb/> Deedy</persName> had published reports
+                    without his young men's having, as<lb/><persName type="fictional">Mr. Pinhorn</persName> would have said, really been
+                    there. I was unre-<lb/> generate, as I have hinted, and I was not concerned to
+                    straighten<lb/> out the journalistic morals of my chief, feeling them indeed to
+                    be<lb/> an abyss over the edge of which it was better not to peer. Really<lb/>
+                    to be there this time moreover was a vision that made the idea of<lb/> writing
+                    something subtle about <persName type="fictional">Neil Paraday</persName> only
+                    the more<lb/> inspiring. I would be as considerate as even <persName type="fictional">Mr. Deedy</persName> could<lb/> have wished, and yet I
+                    should be as present as only <persName type="fictional">Mr.
+                    Pinhorn</persName><lb/> could conceive. My allusion to the sequestered manner in which<lb/><persName type="fictional">Mr. Paraday</persName> lived (which had formed part
+                    of my explanation,<lb/> though I knew of it only by hearsay) was, I could
+                    divine, very<lb/> much what had made <persName type="fictional">Mr.
+                        Pinhorn</persName> bite. It struck him as in-<lb/> consistent with the
+                    success of his paper that any one should be so<lb/> sequestered as that.
+                    Moreover, was not an immediate exposure of<lb/> everything just what the public
+                    wanted? <persName type="fictional">Mr. Pinhorn</persName> effectually<lb/>
+                    called me to order by reminding me of the promptness with which<lb/> I had met
+                        <persName type="fictional">Miss Braby</persName> at <placeName type="city">Liverpool</placeName>, on her return from her fiasco in<lb/> the <placeName type="country">States</placeName>. Hadn't we published, while its freshness
+                    and flavour<lb/> were unimpaired, <persName type="fictional">Miss
+                        Braby</persName>'s own version of that great inter-<lb/> national episode? I
+                    felt somewhat uneasy at this coupling of the<lb/> actress and the author, and I
+                    confess that after having enlisted <persName type="fictional">Mr.<lb/>
+                        Pinhorn</persName>'s sympathies I procrastinated a little. I had
+                    succeeded<lb/> better than I wished, and I had, as it happened, work nearer
+                    at<lb/> hand. A few days later I called on <persName type="fictional">Lord
+                        Crouchley</persName> and carried<lb/> off in triumph the most unintelligible
+                    statement that had yet</p><fw type="catchword">appeared</fw><pb n="18"/><fw type="pageNum">10</fw><fw type="runningHead">The Death of the Lion</fw><p>appeared of his lordship's reasons for his change of front. I thus<lb/> set in
+                    motion in the daily papers columns of virtuous verbiage.<lb/> The following week
+                    I ran down to <placeName type="city">Brighton</placeName> for a chat, as
+                        <persName type="fictional">Mr.<lb/> Pinhorn</persName> called it, with
+                        <persName type="fictional">Mrs. Bounder</persName>, who gave me, on the<lb/>
+                    subject of her divorce, many curious particulars that had not been<lb/>
+                    articulated in court. If ever an article flowed from the primal<lb/> fount it
+                    was that article on <persName type="fictional">Mrs. Bounder</persName>. By this
+                    rime, however,<lb/> I became aware that <persName type="fictional">Neil
+                        Paraday</persName>'s new book was on the point of<lb/> appearing, and that
+                    its approach had been the ground of my<lb/> original appeal to <persName type="fictional">Mr. Pinhorn</persName>, who was now annoyed with me<lb/>
+                    for having lost so many days. He bundled me off—we would at<lb/> least
+                    not lose another. I have always thought his sudden alertness a<lb/> remarkable
+                    example of the journalistic instinct. Nothing had<lb/> occurred, since I first
+                    spoke to him, to create a visible urgency,<lb/> and no enlightenment could
+                    possibly have reached him. It was a<lb/> pure case of professional <emph rend="italic">flair</emph>—he had smelt the coming glory as<lb/> an
+                    animal smells its distant prey.</p></div><div type="part" n="2"><space/><head>II</head><space/><p>I may as well say at once that this little record pretends in no<lb/> degree to
+                    be a picture either of my introduction to <persName type="fictional">Mr.
+                        Paraday</persName><lb/> or of certain proximate steps and stages. The scheme
+                    of my<lb/> narrative allows no space for these things and in any case a
+                    pro-<lb/> hibitory sentiment would be attached to my recollection of so
+                    rare<lb/> an hour. These meagre notes are essentially private, and if they<lb/>
+                    see the light the insidious forces that, as my story itself shows,<lb/> make at
+                    present for publicity will simply have overmastered my<lb/> precautions. The
+                    curtain fell lately enough on the lamentable</p><fw type="catchword">drama</fw><pb n="19"/><fw type="runningHead">By Henry James</fw><fw type="pageNum">11</fw><p>drama. My memory of the day I alighted at <persName type="fictional">Mr.
+                        Paraday</persName>'s door<lb/> is a fresh memory of kindness, hospitality,
+                    compassion, and of the<lb/> wonderful illuminating talk in which the welcome was
+                    conveyed.<lb/> Some voice of the air had taught me the right moment, the<lb/>
+                    moment of his life at which an act of unexpected young allegiance<lb/> might
+                    most come home. He had recently recovered from a long,<lb/> grave illness. I had
+                    gone to the neighbouring inn for the night,<lb/> but I spent the evening in his
+                    company, and he insisted the next<lb/> day on my sleeping under his roof. I had
+                    not an indefinite leave:<lb/><persName type="fictional">Mr. Pinhorn</persName> supposed us to put out victims
+                    through on the<lb/> gallop. It was later, in the office, that the step was
+                    elaborated<lb/> and regulated. I fortified myself however, as my training
+                    had<lb/> taught me to do, by the conviction that nothing could be more<lb/>
+                    advantageous for my article than to be written in the very atmo-<lb/> sphere. I
+                    said nothing to <persName type="fictional">Mr. Paraday</persName> about it, but
+                    in the<lb/> morning, after my removal from the inn, while he was occupied
+                    in<lb/> his study, as he had notified me that he should need to be, I com-<lb/>
+                    mitted to paper the quintessence of my impressions. Then<lb/> thinking to
+                    commend myself to <persName type="fictional">Mr. Pinhorn</persName> by my
+                    celerity, I<lb/> walked out and posted my little packet before luncheon.
+                    Once<lb/> my paper was written I was free to stay on, and if it was
+                    designed<lb/> to divert attention from my frivolity in so doing I could
+                    reflect<lb/> with satisfaction that I had never been so clever I don't mean
+                    to<lb/> deny of course that I was aware it was much too good for <persName type="fictional">Mr.<lb/> Pinhorn</persName>; but I was equally conscious
+                    that <persName type="fictional">Mr. Pinhorn</persName> had the<lb/> supreme
+                    shrewdness of recognising from time to time the cases in<lb/> which an article
+                    was not too bad only because it was too good,<lb/> There was nothing he loved so
+                    much as to print on the right<lb/> occasion a thing he hated. I had begun my
+                    visit to <persName type="fictional">Mr. Paraday</persName><lb/> on a Monday, and
+                    on the Wednesday his book came out. A copy<lb/> of it arrived by the first post,
+                    and he let me go out into the garden</p><fw type="catchword">with</fw><pb n="20"/><fw type="pageNum">12</fw><fw type="runningHead">The Death of the Lion</fw><p>with it immediately after breakfast. I read it from beginning to<lb/> end that
+                    day, and in the evening he asked me to remain with him<lb/> the rest of the week
+                    and over the Sunday.</p><p>That night my manuscript came back from <persName type="fictional">Mr.
+                        Pinhorn</persName>,<lb/> accompanied with a letter, of which the gist was
+                    the desire to<lb/> know what I meant by sending him such stuff. That was
+                    the<lb/> meaning of the question, if not exactly its form, and it made my<lb/>
+                    mistake immense to me. Such as this mistake was I could now<lb/> only look it in
+                    the face and accept it. I knew where I had failed,<lb/> but it was exactly where
+                    I couldn't have succeeded. I had been<lb/> sent down there to be personal, and
+                    in point of fact I hadn't been<lb/> personal at all; what I had sent up to
+                        <placeName type="city">London</placeName> was merely a little<lb/>
+                    finicking, feverish study of my author's talent. Anything less<lb/> relevant to
+                        <persName type="fictional">Mr. Pinhorn</persName>'s purpose couldn't well be
+                    imagined, and<lb/> he was visibly angry at my having (at his expense, with a
+                    second-<lb/> class ticket) approached the object of our arrangement only to
+                    be<lb/> so deucedly distant. For myself, I knew but too well what had<lb/>
+                    happened, and how a miracle — as pretty as some old miracle of<lb/>
+                    legend — had been wrought on the spot to save me. There had<lb/> been a
+                    big brush of wings, the flash of an opaline robe, and then,<lb/> with a great
+                    cool stir of the air, the sense of an angel's having<lb/> swooped down and
+                    caught me to his bosom. He held me only<lb/> till the danger was over, and it
+                    all took place in a minute. With<lb/> my manuscript back on my hands I
+                    understood the phenomenon<lb/> better, and the reflections I made on it are what
+                    I meant, at the<lb/> beginning of this anecdote, by my change of heart.
+                        <persName type="fictional">Mr. Pinhorn</persName>'s<lb/> note was hot only a
+                    rebuke decidedly stern, but an invitation <lb/> immediately to send him (it was
+                    the case to say so) the genuine<lb/> article, the revealing and reverberating
+                    sketch to the promise of <lb/> which — and of which alone — I owed
+                    my squandered privilege. A<lb/> week or two later I recast my peccant paper, and
+                    giving it a</p><fw type="catchword">particular</fw><pb n="21"/><fw type="runningHead">By Henry James</fw><fw type="pageNum">13</fw><p>particular application to <persName type="fictional">Mr. Paraday</persName>'s new
+                    book, obtained for it<lb/> the hospitality of another journal, where, I must
+                    admit, <persName type="fictional">Mr. Pin-<lb/> horn</persName> was so far
+                    justified that it attracted not the least attention.</p></div><div type="part" n="3"><space/><head>III</head><space/><p>I was frankly, at the end of three days, a very prejudiced critic,<lb/> so that
+                    one morning when, in the garden, <persName type="fictional">Neil
+                        Paraday</persName> had<lb/> offered to read me something I quite held my
+                    breath as I listened.<lb/> It was the written scheme of another
+                    book—something he had<lb/> put aside long ago, before his illness, and
+                    lately taken out again to<lb/> reconsider. He had been turning it round when I
+                    came down<lb/> upon him, and it had grown magnificently under this second<lb/>
+                    hand. Loose, liberal, confident, it might have passed for a great<lb/>
+                    gossiping, eloquent letter—the overflow into talk of an artist's<lb/>
+                    amorous plan. The subject I thought singularly rich, quite the<lb/> strongest he
+                    had yet treated; and this familiar statement of it, full<lb/> too of fine
+                    maturities, was really, in summarised splendour, a mine<lb/> of gold, a
+                    precious, independent work. I remember rather pro-<lb/> fanely wondering whether
+                    the ultimate production could possibly<lb/> be so happy. His reading of the
+                    epistle, at any rate, made me<lb/> feel as if I were, for the advantage of
+                    posterity, in close corre-<lb/> spondence with him — were the
+                    distinguished person to whom it had<lb/> been affectionately addressed. It was
+                    high distinction simply to<lb/> be told such things. The idea he now
+                    communicated had all the<lb/> freshness, the flushed fairness of the conception
+                    untouched and<lb/> untried: it was <persName type="fictional">Venus</persName>
+                    rising from the sea, before the airs had<lb/> blown upon her. I had never been
+                    so throbbingly present at such<lb/> an unveiling. But when he had tossed the
+                    last bright word after</p><fw type="catchword">the</fw><pb n="22"/><fw type="pageNum">14</fw><fw type="runningHead">The Death of the Lion</fw><p>the others, as I had seen cashiers in banks, weighing mounds of<lb/> coin, drop a
+                    final sovereign into the tray, I became conscious of a<lb/> sudden prudent
+                    alarm.</p><p><q>"My dear toaster, how, after all, are you going to do it?"</q> I<lb/> asked.
+                        <q>"It's infinitely noble, but what rime it will take, what<lb/> patience
+                        and independence, what assured, what perfect conditions<lb/> it will demand!
+                        Oh for a lone isle in a tepid sea!"</q><lb/><!-- is this a lb? -->
+<q>"Isn't this practically a lone isle, and aren't you, as an encircling<lb/>
+                        medium, tepid enough?"</q> he replied; alluding with a laugh to the<lb/>
+                    wonder of my young admiration and the narrow limits of his little<lb/>
+                    provincial home. <q>"Time isn't what I’ve lacked hitherto: the<lb/> question
+                        hasn't been to find it, but to use it. Of course my<lb/> illness made a
+                        great hole, but I daresay there would have been a<lb/> hole at any rate. The
+                        earth we tread bas more pockets than a<lb/> billiard-table. The great thing
+                        is now to keep on my feet."</q></p><p><q>"That's exactly what I mean."</q></p><p><persName type="fictional">Neil Paraday</persName> looked at me with eyes
+                    — such pleasant eyes as he<lb/> had — in which, as I now recall
+                    their expression, I seem to have<lb/> seen a dim imagination of his fate. He was
+                    fifty years old, and<lb/> his illness had been cruel, his convalescence slow.
+                        <q>"It isn't as if<lb/> I weren't all right."</q></p><p><q>"Oh, if you weren't all right I wouldn't look at you!"</q> I<lb/> tenderly
+                    said.</p><p>We had both got up, quickened by the full sound of it all, and<lb/> he had
+                    lighted a cigarette. I had taken a fresh one, and, with an<lb/> intenser smile,
+                    by way of answer to my exclamation, he touched it<lb/> with the flame of his
+                    match. <q>"If I weren't better I shouldn't have<lb/> thought of <emph rend="italic">that</emph>!"</q> He flourished his epistle in his
+                    hand.</p><p><q>"I don't want to be discouraging, but that's not true,"</q> I re-<lb/> turned.
+                        <q>" I'm sure that during the months you lay here in pain<lb/> You had
+                        visitations sublime. You thought of a thousand things.</q></p><fw type="catchword">You</fw><pb n="23"/><fw type="runningHead">By Henry James</fw><fw type="pageNum">15</fw><p><q>You think of more and more all the while. That's what makes<lb/> you, if you
+                        will pardon my familiarity, so respectable. At a time<lb/> when so many
+                        people are spent you come into your second wind.<lb/> But, thank God, all
+                        the same, you're better! Thank God, too,<lb/> you're not, as you were
+                        telling me yesterday, <q>'successful.'</q> If <emph rend="italic">you</emph><lb/> weren't a failure, what would be the use of trying? That's
+                        my<lb/> one reserve on the subject of your recovery — that it makes you<lb/><q>"score,"</q> as the newspapers say. It looks well in the newspapers,<lb/>
+                        and almost anything that does that is horrible. <q>'We are happy<lb/> to
+                            announce that <persName type="fictional">Mr. Paraday</persName>, the
+                            celebrated author, is again in<lb/> the enjoyment of excellent
+                            health.'</q> Somehow I shouldn't like to<lb/> see it."</q></p><p><q>"You won't see it; I'm not in the least celebrated — my<lb/> obscurity
+                        protects me. But couldn't you bear even to see I was<lb/> dying or
+                        dead?"</q> my companion asked.</p><p><q>"Dead — <foreign xml:lang="fr" rend="italic">passe encore</foreign>;
+                        there's nothing so safe. One never<lb/> knows what a living artist may do
+                        — one has mourned so many.<lb/> However, one must make the worst of
+                        it; you must be as dead as <lb/> you can."</q></p><p><q>"Don't I meet that condition in having just published a book?"</q></p><p><q>"Adequately, let us hope; for the book is verily a master- piece."</q></p><p>At this moment the parlour-maid appeared in the door that<lb/> opened into the
+                    garden: <persName type="fictional">Paraday</persName> lived at no great cost,
+                    and the<lb/> frisk of petticoats, with a timorous <q>"Sherry, sir?"</q> was
+                    about his<lb/> modest mahogany. He allowed hall his income to his wife,
+                    from<lb/> whom he had succeeded in separating without redundancy of legend.<lb/>
+                    I had a general faith in his having behaved well, and I had once, in<lb/><placeName type="city">London</placeName>, taken <persName type="fictional">Mrs.
+                        Paraday</persName> down to dinner. He now turned to<lb/> speak to the maid,
+                    who offered him, on a trait, some card or note,</p><fw type="catchword">while</fw><pb n="24"/><fw type="pageNum">16</fw><fw type="runningHead">The Death of the Lion</fw><p>while agitated, excited, I wandered to the end of the garden.<lb/> The idea of
+                    his security became supremely dear to me, and I asked<lb/> myself if I were the
+                    same young man who had come down a few<lb/> days before to scatter him to the
+                    four winds. When I retraced<lb/> my steps he had gone into the house and the
+                    woman (the second<lb/><placeName type="city">London</placeName> post had come in) had placed my
+                    letters and a newspaper<lb/> on a bench. I sat down there to the letters, which
+                    were a brief<lb/> business, and then, without heeding the address, took the
+                    paper<lb/> from its envelope. It was the journal of highest renown, <title level="j" rend="italic">The<lb/> Empire</title> of that morning. It
+                    regularly camee to <persName type="fictional">Paraday</persName>, but I<lb/>
+                    remembered that neither of us had yet looked at the copy already<lb/> delivered.
+                    This one had a great mark on the editorial page,<lb/> and, uncrumpling the
+                    wrapper, I saw it to be directed to my host<lb/> and stamped with the name of
+                    his publishers. I instantly divined<lb/> that <title level="j" rend="italic">The
+                        Empire</title> had spoken of him, and I have not forgotten the<lb/> odd
+                    little shock of the circumstance. It checked all eagerness and<lb/> made me drop
+                    the paper a moment. As I sat there, conscious of<lb/> a palpitation, I think I
+                    had a vision of what was to be. I had<lb/> also a vision of the letter I would
+                    presently address to <persName type="fictional">Mr. Pinhorn</persName>,<lb/>
+                    breaking as it were with <persName type="fictional">Mr. Pinhorn</persName>. Of
+                    course, however,<lb/> the next minute the voice of <title level="j" rend="italic">The Empire</title> was in my ears.</p><p>The article was not, I thanked Heaven, a review; it was a<lb/> leader, the last
+                    of three, presenting <persName type="fictional">Neil Paraday</persName> to the
+                    human<lb/> race. His new book, the fifth from his hand, had been but a day<lb/>
+                    or two out, and <title level="j" rend="italic">The Empire</title>, already aware
+                    of it, fired, as if on the<lb/> birth of a prince, a salure of a whole column.
+                    The guns had been<lb/> booming these three hours in the house without out
+                    suspecting<lb/> them. The big blundering newspaper had discovered him, and<lb/>
+                    now he was proclaimed and anointed and crowned. His place was<lb/> assigned him
+                    as publicly as if a fat usher with a wand had pointed<lb/> to the topmost chair;
+                    he was to pass up and still up, higher and</p><fw type="catchword">higher,</fw><pb n="25"/><fw type="runningHead">By Henry James</fw><fw type="pageNum">17</fw><p>higher, between the watching faces and the envious sounds — away<lb/> up
+                    to the daïs and the throne. The article was a date; he had<lb/> taken rank at a
+                    bound — waked up a national glory. A national<lb/> glory was needed, and
+                    it was an immense convenience he was there.<lb/> What all this meant rolled over
+                    me, and I fear I grew a little faint<lb/> —it meant so much more than I
+                    could say <q>"yea"</q> to on the spot.<lb/> land a flash, somehow, all was
+                    different; the tremendous wave I<lb/> speak of had swept something away. It had
+                    knocked down, I<lb/> suppose, my little customary altar, my twinkling tapers and
+                    my<lb/> flowers, and had reared itself into the likeness of a temple vast
+                    and<lb/> bare. When <persName type="fictional">Neil Paraday</persName> should
+                    come out of the house he would<lb/> come out a contemporary. That was what had
+                    happened — the<lb/> poor man was to be squeezed into his horrible age. I
+                    felt as if<lb/> he had been overtaken on the crest of the hill and brought
+                    back<lb/> to the city. A little more and he would have dipped down to<lb/>
+                    posterity and escaped.</p></div><div type="part" n="4"><head>IV</head><space/><p>When he came out it was exactly as if he had been in custody,<lb/> for beside him
+                    walked a stout man with a big black beard, who,<lb/> save that he wore
+                    spectacles, might have been a policeman, and<lb/> in whom at a second glance I
+                    recognised the highest contemporary<lb/> enterprise.</p><p><q>"This is <persName type="fictional">Mr. Morrow</persName>,"</q> said <persName type="fictional">Paraday</persName>, looking, I thought,<lb/> rather white;
+                        <q>"he wants to publish heaven knows what about<lb/> me."</q></p><p>I winced as I remembered that this was exactly what I myself<lb/> had wanted.
+                        <q>"Already?"</q> I exclaimed, with a sort of sense that<lb/> my friend had
+                    fled to me for protection.</p><fw type="footer">The Yellow Book--Vol. I. <emph>B</emph></fw><fw type="catchword"><persName type="fictional">Mr. Morrow</persName></fw><pb n="26"/><fw type="pageNum">18</fw><fw type="runningHead">The Death of the Lion</fw><p><persName type="fictional">Mr. Morrow</persName> glared, agreeably, through his
+                    glasses: they<lb/> suggested the electric headlights of some monstrous modern
+                    ship,<lb/> and I felt as if <persName type="fictional">Paraday</persName> and I
+                    were tossing terrified under his<lb/> bows. I saw that his momentum was
+                    irresistible, <q>"I was<lb/> confident that I should be the first in the
+                        field,"</q> he declared.</p><p><q>"A great interest is naturally felt in <persName type="fictional">Mr.
+                            Paraday</persName>'s surroundings."</q></p><p><q>"I hadn't the least idea of it,"</q> said <persName type="fictional">Paraday</persName>, as if he had been<lb/> told he had been snoring.</p><p><q>"I find he has not read the article in <title level="j" rend="italic">The
+                            Empire</title>,"</q><persName type="fictional">Mr. Morrow</persName><lb/> remarked to me. <q>"That's
+                        so very interesting — something to<lb/> start with,"</q> he smiled.
+                    He had begun to pull off his gloves,<lb/> which were violently new, and to look
+                    encouragingly round the<lb/> little garden. As a <q>"surrounding"</q> I felt
+                    that I myself had<lb/> already been taken in; I was a little fish in the stomach
+                    of a<lb/> bigger one. <q>"I represent,"</q> our visitor continued, <q>"a
+                        syndicate of<lb/> influential journals, no less than thirty-seven, whose
+                        public —<lb/> whose publics, I may say — are in peculiar
+                        sympathy with <persName type="fictional">Mr.<lb/> Paraday's</persName> line
+                        of thought. They would greatly appreciate any<lb/> expression of his views
+                        on the subject of the art he so brilliantly<lb/> practises. Besides my
+                        connection with the syndicate just men-<lb/> tioned, I hold a particular
+                        commission from <title level="j" rend="italic">The Tatler</title>,
+                        whose<lb/> most prominent department, <title level="j" rend="italic">Smatter
+                            and Chatter</title> — I daresay<lb/> you've often enjoyed it
+                        — attracts such attention. I was honoured<lb/> only last week, as a
+                        representative of <title level="j" rend="italic">The Tatler</title>, with
+                        the confi-<lb/> dence of <persName type="fictional">Guy
+                            Walsingham</persName>, the author of '<title level="m">Obsessions</title>.' She<lb/> expressed herself thoroughly pleased with
+                        my sketch of her<lb/> method; she went so far as to say that I had made her
+                        genius<lb/> more comprehensible even to herself."</q></p><p><persName type="fictional">Neil Paraday</persName> had dropped upon the
+                    garden-bench and sat there,<lb/> at once detached and confused; he looked hard
+                    at a bare spot in <lb/> the lawn, as if with an anxiety that had suddenly made
+                    him grave.<lb/></p><fw type="catchword">His</fw><pb n="27"/><fw type="runningHead">By Henry James</fw><fw type="pageNum">19</fw><p>His movement had been interpreted by his visitor as an invitation<lb/> to sink
+                    sympathetically into a wicker chair that stood hard by,<lb/> and as <persName type="fictional">Mr. Morrow</persName> so settled himself I felt that he had
+                    taken<lb/> official possession and that there was no undoing it. One had<lb/>
+                    heard of unfortunate people's having <soCalled>a man in the house,</soCalled>
+                    and<lb/> this was just what we had. There was a silence of a moment,<lb/> during
+                    which we seemed to acknowledge in the only way that<lb/> was possible the
+                    presence of universal fate; the sunny stillness<lb/> took no pity, and my
+                    thought, as I was sure <persName type="fictional">Paraday</persName>'s was
+                    doing,<lb/> performed within the minute a great distant revolution. I saw<lb/>
+                    just how emphatic I should make my rejoinder to <persName type="fictional">Mr.
+                        Pinhorn</persName>,<lb/> and that having come, like <persName type="fictional">Mr. Morrow</persName>, to betray, I must<lb/> remain as
+                    long as possible to save. Not because I had brought<lb/> my mind back, but
+                    because our visitor's last words were in my<lb/> ear, I presently inquired with
+                    gloomy irrelevance if <persName type="fictional">Guy Wals-<lb/>
+                        ingham</persName> were a woman.</p><p><q>"Oh yes, a mere pseudonym; but convenient, you know, for<lb/> a lady who goes
+                        in for the larger latitude. <title level="m">Obsessions</title>, by
+                        Miss<lb/> So-and-So would look a little odd, but men are more naturally
+                        <lb/> indelicate. Have you peeped into <title level="m">Obsessions</title>?"</q><persName type="fictional">Mr. Morrow</persName><lb/> continued sociably to our
+                    companion.</p><p><persName type="fictional">Paraday</persName>, still absent, remote, made no
+                    answer, as if he had not<lb/> heard the question: a manifestation that appeared
+                    to suit the<lb/> cheerful <persName type="fictional">Mr. Morrow</persName> as
+                    well as any other. Imperturbably bland,<lb/> he was a man of resources —
+                    he only needed to be on the spot.<lb/> He had pocketed the whole poor place
+                    while <persName type="fictional">Paraday</persName> and I were<lb/>
+                    woolgathering, and I could imagine that he had already got his<lb/><soCalled>heads.</soCalled> His system, at any rate, was justified by the
+                    in-<lb/> evitability with which I replied, to save my friend the trouble:<lb/><q>"Dear, no; he hasn't read it. He doesn't read such things!"</q> I<lb/>
+                    unwarily added.</p><fw type="catchword">Things</fw><pb n="28"/><fw type="pageNum">20</fw><fw type="runningHead">The Death of the Lion</fw><p><q>"Things that are too far over the fence, eh?"</q> I was indeed a<lb/> godsend
+                    to <persName type="fictional">Mr. Morrow</persName>. It was the psychological
+                    moment; it<lb/> determined the appearance of his notebook, which, however, he
+                    at<lb/> first kept slightly behind him, as the dentist, approaching his<lb/>
+                    victim, keeps his horrible forceps. <q>"<persName type="fictional">Mr.
+                            Paraday</persName> holds with the<lb/> good old proprieties — I
+                        see!"</q> And, thinking of the thirty-seven<lb/> influential journals, I
+                    found myself, as I found poor <persName type="fictional">Paraday</persName>,
+                    help-<lb/> lessly gazing at the promulgation of this ineptitude.
+                        <q>"There's<lb/> no point on which distinguished views are so acceptable as
+                        on this<lb/> question — raised perhaps more strikingly than ever by
+                            <persName type="fictional">Guy Wals-<lb/> ingham</persName> — of
+                        the permissibility of the larger latitude. I have an<lb/> appointment,
+                        precisely in connection with it, next week, with<lb/><persName type="fictional">Dora Forbes</persName>, the author of <title level="m">'The Other Way Round,'</title> which<lb/> everybody is talking
+                        about. Has <persName type="fictional">Mr. Paraday</persName> glanced at
+                            <title level="m">'The<lb/> Other Way Round'</title>?"</q><persName type="fictional">Mr. Morrow</persName> now frankly appealed to<lb/>
+                    me. I took upon myself to repudiate the supposition, while our<lb/> companion,
+                    still silent, got up nervously and walked away. His<lb/> visitor paid no heed to
+                    his withdrawal; he only opened out the<lb/> notebook with a more motherly pat.
+                            <q>"<persName type="fictional">Dora Forbes</persName>, I gather,
+                        takes<lb/> the ground, the same as <persName type="fictional">Guy
+                            Walsingham</persName>'s, that the larger<lb/> latitude has simply got to
+                        come. He holds that it bas got to<lb/> squarely faced. Of course his sex
+                        makes him a less prejudiced<lb/> witness. But an authoritative word from
+                            <persName type="fictional">Mr. Paraday</persName> — from the<lb/>
+                        point of view of his sex, you know — would go right round the<lb/>
+                        globe. He takes the line that we haven't got to face it?"</q></p><p>I was bewildered; it sounded somehow as if there were three<lb/> sexes. My
+                    interlocutor's pencil was poised, my private responsi-<lb/> bility great. I
+                    simply sat staring, however, and only, found<lb/> presence of mind to say:
+                        <q>"Is this <persName type="fictional">Miss Forbes</persName> a
+                        gentleman?"</q></p><p><persName type="fictional">Mr. Morrow</persName> hesitated an instant, smiling:
+                        <q>"It wouldn't be<lb/><q>"Miss"</q> — there's a wife!"</q></p><fw type="catchword">I</fw><pb n="29"/><fw type="runningHead">By Henry James</fw><fw type="pageNum">21</fw><p><q>"I mean is she a man?"</q></p><p><q>"The wife?"</q> — <persName type="fictional">Mr. Morrow</persName>, for
+                    a moment, was as confused<lb/> as myself. But when I explained that I alluded to
+                        <persName type="fictional">Dora Forbes</persName><lb/> in person he informed
+                    me, with visible amusement at my being<lb/> so out of it, that this was the
+                    pen-name of an indubitable male<lb/> — he had a big red moustache. <q>"He
+                        only assumes a feminine<lb/> personality because the ladies are such popular
+                        favourites. A great<lb/> deal of interest is felt in this assumption, and
+                        there's every pro-<lb/> spect of its being widely imitated."</q> Our host at
+                    this moment<lb/> joined us again, and <persName type="fictional">Mr.
+                        Morrow</persName> remarked invitingly that he<lb/> should be happy to make a
+                    note of any observation the movement<lb/> in question, the bid for success under
+                    a lady’s name, might suggest<lb/> to <persName type="fictional">Mr.
+                        Paraday</persName>. But the poor man, without catching the allu-<lb/> tion,
+                    excused himself, pleading that, though he was greatly<lb/> honoured by his
+                    visitor's interest, he suddenly felt unwell and<lb/> should have to take leave
+                    of him — have to go and lie down and<lb/> keep quiet. His young friend
+                    might be trusted to answer for<lb/> him, but he hoped <persName type="fictional">Mr. Morrow</persName> didn't expect great things even<lb/> of his young
+                    friend. His young friend, at this moment, looked<lb/> at <persName type="fictional">Neil Paraday</persName> with an anxious eye, greatly
+                    wondering if he were<lb/> doomed to be ill again; but <persName type="fictional">Paraday</persName>'s own kind face met his ques-<lb/> tion reassuringly,
+                    seemed to say in a glance intelligible enough:<lb/><q>"Oh, I'm not ill, but I'm scared: get him out of the house as<lb/> quietly as
+                        possible."</q> Getting newspaper-men out of the house was<lb/> odd business
+                    for an emissary of <persName type="fictional">Mr. Pinhorn</persName>, and I was
+                    so exhila-<lb/> rated by the idea of it that I called after him as he left
+                    us:</p><p><q>"Read the article in <title level="j" rend="italic">The Empire</title>, and
+                        you'll soon be all<lb/> right!"</q></p></div><pb n="30"/><fw type="pageNum">22</fw><fw type="runningHead">The Death of the Lion</fw><div type="part" n="5"><head>V</head><space/><p><q>"Delicious my having come down to tell him of it!"</q><persName type="fictional">Mr.<lb/> Morrow</persName> ejaculated. <q>"My cab was
+                        at the door twenty minutes<lb/> after <title level="j" rend="italic">The
+                            Empire</title> had been laid upon my breakfast-table. Now<lb/> what have
+                        you got for me?"</q> he continued, dropping again into<lb/> his chair, from
+                    which, however, the next moment he quickly<lb/> rose. <q>"I was shown into the
+                        drawing-room, but there must be<lb/> more to see—his study, his
+                        literary sanctum, the little things he<lb/> has about, or other domestic
+                        objects or features. He wouldn't be<lb/> lying down on his study-table?
+                        There's a great interest always<lb/> felt in the scene of an author's
+                        labours. Sometimes we're favoured<lb/> with very delightful peeps. <persName type="fictional">Dora Forbes</persName> showed me all his table-<lb/>
+                        drawers, and almost jammed my hand into one into which I made<lb/> a dash! I
+                        don't ask that of you, but if we could talk things<lb/> over right there
+                        where he sits I feel as if I should get the<lb/> keynote."</q></p><p>I had no wish whatever to be rude to <persName type="fictional">Mr.
+                        Morrow</persName>, I was<lb/> much too initiated not to prefer the safety of
+                    other ways; but I<lb/> had a quick inspiration and I entertained an
+                    insurmountable, an<lb/> almost superstitious objection to his crossing the
+                    threshold of my<lb/> friend's little lonely, shabby, consecrated workshop.
+                        <q>"No,<lb/> we sha'n't get at his lire that way,"</q> I said. <q>"The way
+                        to get at<lb/> his lire is to — But wait a moment!"</q> I broke off
+                    and went<lb/> quickly into the house; then, in three minutes, I reappeared before<lb/><persName type="fictional">Mr. Morrow</persName> with the two volumes of
+                        <persName type="fictional">Paraday</persName>'s new book.<lb/><q>"His life's here"</q> I went on, <q>"and I'm so full of this admirable<lb/>
+                        thing that I can't talk of anything else. The artist's life's his<lb/> work,
+                        and this is the place to observe him. What he has to tell<lb/></q></p><fw type="catchword">us</fw><pb n="31"/><fw type="runningHead">By Henry James</fw><fw type="pageNum">23</fw><p><q>us he tells us with <emph rend="italic">this</emph> perfection. My dear sir,
+                        the best inter-<lb/> viewer's the best reader."</q></p><p><persName type="fictional">Mr. Morrow</persName> good-humouredly protested.
+                        <q>"Do you mean to<lb/> say that no other source of information should be
+                        opened to us?"</q></p><p><q>"None other till this particular one — by far the most copious
+                        —<lb/> has been quite exhausted. Have you exhausted it, my dear
+                        sir<lb/> Had you exhausted it when you came down here? It seems to<lb/> me
+                        in our time almost wholly neglected, and something should<lb/> surely be
+                        done to restore its ruined credit. It's the course to<lb/> which the artist
+                        himself at every step, and with such pathetic<lb/> confidence, refers us.
+                        This last book of <persName type="fictional">Mr. Paraday</persName>'s is
+                        full of<lb/> revelations."</q></p><p><q>"Revelations."</q> panted <persName type="fictional">Mr. Morrow</persName>,
+                    whom I had forced<lb/> again into his chair.</p><p><q>"The only kind that count. It tells you with a perfection that<lb/> seems to
+                        me quite final all the author thinks, for instance, about the<lb/> advent of
+                        the larger latitude."</q></p><p><q>"Where does it do that?"</q> asked <persName type="fictional">Mr.
+                        Morrow</persName>, who had picked<lb/> up the second volume and was
+                    insincerely thumbing it.</p><p><q>"Everywhere — in the whole treatment of his case. Extract the<lb/>
+                        opinion, disengage the answer — those are the real acts of
+                        homage."</q></p><p><persName type="fictional">Mr. Morrow</persName>, after a minute, tossed the book
+                    away. <q>"Ah, but<lb/> you mustn't take me for a reviewer."</q></p><p><q>"Heaven forbid I should take you for anything so dreadful!<lb/> You came down
+                        to perform a little act of sympathy, and so, I<lb/> may confide to you, did
+                        I. Let us perform our little act together.<lb/> These pages overflow with
+                        the testimony we want: let us read<lb/> them and taste them and interpret
+                        them. You will of course<lb/> have perceived for yourself that one scarcely
+                        does read <persName type="fictional">Neil<lb/> Paraday</persName> till one
+                        reads him aloud; he gives out to the ear an extra-<lb/> Ordinary quality,
+                        and it's only when you expose it confidently to<lb/></q></p><fw type="catchword">that</fw><pb n="32"/><fw type="pageNum">24</fw><fw type="runningHead">The Death of the Lion</fw><p><q>that test that you really get near his style. Take up your book<lb/> again
+                        and let me listen, while you pay it out, to that wonderful<lb/> fifteenth
+                        chapter. If you feel that you can't do it justice, compose<lb/> yourself to
+                        attention while I produce for you — I think I can! —<lb/> this
+                        scarcely less admirable ninth."</q></p><p><persName type="fictional">Mr. Morrow</persName> gave me a straight glance which
+                    was as hard as a<lb/> blow between the eyes; he had turned rather red and a
+                    question had<lb/> formed itselfin his mind which reached my sense as distinctly
+                    as if<lb/> he had uttered it: <q>"What sort of a damned fool are you?"</q>
+                    Then<lb/> he got up, gathering together his hat and gloves, buttoning his<lb/>
+                    coat, projecting hungrily all over the place the big transparency of<lb/> his
+                    mask. It seemed to flare over <placeName type="street">Fleet Street</placeName>
+                    and somehow<lb/> made the actual spot distressingly humble: there was so little
+                    for<lb/> it to feed on unless he counted the blisters of our stucco or saw<lb/>
+                    his way to do something with the roses. Even the poor roses<lb/> were common
+                    kinds. Presently his eyes fell upon the manuscript<lb/> from which <persName type="fictional">Paraday</persName> had been reading to me and which still
+                    lay on<lb/> the bench. As my own followed them I saw that it looked<lb/>
+                    promising, looked pregnant, as if it gently throbbed with the lire<lb/> the
+                    reader had given it. <persName type="fictional">Mr. Morrow</persName> indulged
+                    in a nod toward<lb/> it and a vague thrust of his umbrella. <q>"What's
+                        that?"</q></p><p><q>"Oh, it's a plan — a secret."</q></p><p><q>"A secret!"</q> There was an instant's silence, and then <persName type="fictional">Mr.<lb/> Morrow</persName> made another movement. I may
+                    have been mistaken,<lb/> but it affected me as the translated impulse of the
+                    desire to lay<lb/> hands on the manuscript, and this led me to indulge in a
+                    quick<lb/> anticipatory grab which may very well have seemed ungraceful, or<lb/>
+                    even impertinent, and which at any rate left <persName type="fictional">Mr.
+                        Paraday</persName>'s two<lb/> admirers very erect, glaring at each other
+                    while one of them held<lb/> a bundle of papers well behind him. An instant later
+                        <persName type="fictional">Mr.<lb/> Morrow</persName> quitted me abruptly,
+                    as if he had really carried some-<lb/></p><fw type="catchword">thing</fw><pb n="33"/><fw type="runningHead">By Henry James</fw><fw type="pageNum">25</fw><p>thing away. To reassure myself, watching his broad back recede,<lb/> I only
+                    grasped my manuscript the tighter. He went to the<lb/> back-door of the house,
+                    the one he had come out from, but on<lb/> trying the handle he appeared to find
+                    it fastened. So he passed<lb/> round into the front garden, and, by listening
+                    intently enough, I<lb/> could presently hear the outer gate close behind him
+                    with a bang.<lb/> I thought again of the thirty-seven influential journals
+                    and<lb/> wondered what would be his revenge. I hasten to add that he was<lb/>
+                    rnagnanimous: which was just the most dreadful thing he could<lb/> have been.
+                        <title level="j" rend="italic">The Tatler</title> published a charming,
+                    chatty, familiar<lb/> account of <persName type="fictional">Mr.
+                        Paraday</persName>'s "Home-life," and on the wings of the<lb/> thirty-seven
+                    influential journals it went, to use <persName type="fictional">Mr.
+                        Morrow</persName>'s own<lb/> expression, right round the globe.</p></div><div type="part" n="6"><head>VI</head><space/><p>A week later, early in May, my glorified friend came up to<lb/> town, where, it
+                    may be veraciously recorded, he was the king of<lb/> the beasts of the year. No
+                    advancement was ever more rapid, no<lb/> exaltation more complete, no
+                    bewilderment more teachable. His<lb/> book sold but moderately, though the
+                    article in <title level="j" rend="italic">The Empire</title> had<lb/> done
+                    unwonted wonders for it; but he circulated in person in a<lb/> manner that the
+                    libraries might well have envied. His formula<lb/> had been found — he
+                    was a revelation. His momentary terror<lb/> had been real, just as mine had been
+                    — the overclouding of his<lb/> passionate desire to be left to finish his
+                    work. He was far from<lb/> unsociable, but he had the finest conception of being
+                    let alone<lb/> that I have ever met. For the time, however, he took his
+                    profit<lb/> where it seemed most to crowd upon him, having in his pocket<lb/></p><fw type="catchword">the</fw>
