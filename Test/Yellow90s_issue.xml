@@ -1,71 +1,113 @@
- <?xml-modelhref="../../../Schema,%20CSS%20and%20Template%20Files/YB_schema2.rnc" type="application/relax-ng-compact-syntax"?><TEI><teiHeader><fileDesc><titleStmt><title>The Yellow Nineties Online</title><title>The Yellow Book: An Illustrated Quarterly, Volume 1 April 1894</title><title type="YBV1_all"/><editor><persName>Lorraine Janzen Kooistra</persName><persName>Dennis Denisoff</persName></editor></titleStmt><editionStmt><edition><date>2007</date></edition></editionStmt><publicationStmt><idno>YBV1</idno><publisher>The Yellow Nineties Online</publisher><pubPlace>Ryerson University</pubPlace><address><addrLine>English Department</addrLine><addrLine>350 Victoria Street,</addrLine><addrLine>Toronto ON,</addrLine><addrLine>M5B 2K3</addrLine><addrLine>Canada</addrLine></address><availability><p>Usable according to the Creative Commons License <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Attribution
-                            Non-commercial Share-alike</ref>.</p></availability></publicationStmt><sourceDesc><biblStruct><monogr><editor><persName>Henry Harland & Aubrey Beardsley</persName></editor><author>Various</author><title>The Yellow Book: An Illustrated Quarterly, Volume 1 April
-                            1894</title><imprint><publisher>Elkin Mathews & John Lane</publisher><pubPlace>London</pubPlace><publisher>Copeland & Day</publisher><pubPlace>Boston</pubPlace><date>April 1894</date><biblScope><emph rend="italics">The Yellow Book</emph> 1 (Apr. 1894).
+ <?xml-model href="../../../Schema,%20CSS%20and%20Template%20Files/YB_schema2.rnc" type="application/relax-ng-compact-syntax"?>
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The Yellow Nineties Online</title>
+                <title>The Yellow Book: An Illustrated Quarterly, Volume 1 April 1894</title>
+                <title type="YBV1_all"/>
+    <editor>
+        <persName>Lorraine Janzen Kooistra</persName>
+        <persName>Dennis Denisoff</persName>
+    </editor>
+            </titleStmt>
+    <editionStmt>
+        <edition>
+            <date>2007</date>
+        </edition>
+    </editionStmt>
+    
+    <publicationStmt>
+        <idno>YBV1</idno>
+        <publisher>The Yellow Nineties Online</publisher>
+        <pubPlace>Ryerson University</pubPlace>
+        <address><addrLine>English Department</addrLine>
+            <addrLine>350 Victoria Street,</addrLine>
+            <addrLine>Toronto ON,</addrLine>
+            <addrLine>M5B 2K3</addrLine>
+            <addrLine>Canada</addrLine></address>
+        
+        <availability>
+            <p>Usable according to the Creative Commons License <ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Attribution
+                            Non-commercial Share-alike</ref>.
+     </p></availability>
+    </publicationStmt>
+            
+            
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <editor>
+                            <persName>Henry Harland & Aubrey Beardsley</persName>
+                        </editor>
+                        <author>Various</author>
+                        <title>The Yellow Book: An Illustrated Quarterly, Volume 1 April
+                            1894</title>
+                        <imprint>
+                            <publisher>Elkin Mathews & John Lane</publisher
+                            ><pubPlace>London</pubPlace>
+                            <publisher>Copeland & Day</publisher>
+                            <pubPlace>Boston</pubPlace>
+                            <date>April 1894</date>
+                            <biblScope><emph rend="italics">The Yellow Book</emph> 1 (Apr. 1894).
                                     <emph rend="italic">The Yellow Nineties Online</emph>. Ed.
                                 Dennis Denisoff and Lorraine Janzen Kooistra. Ryerson University,
                                 2010. Web. [Date of access].
-                                http://www.1890s.ca/HTML.aspx?s=YBV1_all.html </biblScope></imprint></monogr></biblStruct></sourceDesc></fileDesc><encodingDesc><editorialDecl><p>Introduction. The Yellow Nineties Online publishes primary texts from the 1890s
-                    and secondary texts written by critics of fin-de-siècle culture. Both kinds of
-                    texts are marked up in TEI. As a dynamic structure, a scholarly website is
-                    always in process. Our decisions in selecting and presenting materials on The
-                    Yellow Nineties Online are governed by the following principles. Editorial
-                    Principles 1. Primary materials Our editorial method for the facsimile editions
-                    published here is informed by social-text editing principles. The editors
-                    understand text as including visual and verbal printed material, including
-                    non-referential physical elements such as page design, ornament, and binding. We
-                    view any text as the outcome of a collaborative process that has specific
-                    material manifestations at precise historical moments. We have chosen to
-                    reproduce The Yellow Book in facsimile form at its moment of first publication.
-                    The social moment—and our editorial horizon—is demarcated by the decade of the
-                    1890s as experienced in and around the London contexts of The Yellow Book’s
-                    contributors and associates. The project’s principal interest is in presenting
-                    the text’s physical components in its first edition, with attention to its
-                    production and reception. Copy-text for The Yellow Book and any other primary
-                    material edited on The Yellow Nineties Online is the first edition unless
-                    otherwise noted. The Yellow Book is presented in facsimile, using double-page
-                    opening of the flip-book function. In addition, the physical features, verbal
-                    texts, and visual images of each Yellow Book volume are marked up in TEI and
-                    available in both xml and PDF formats. Annotations to the facsimile edition are
-                    kept to a minimum. Commentary is available in the site’s associated secondary
-                    materials. 2. Secondary materials In addition to providing the publication
-                    vehicle for the marked-up facsimile edition of The Yellow Book, The Yellow
-                    Nineties Online is also an electronic publishing site for peer-reviewed material
-                    relating to The Yellow Book and fin-de-siècle cultural studies. Secondary
-                    material published on the site has three levels of review. First, the editors
-                    solicit and co-edit commentary from leading scholars in the field. Second, the
-                    site is overseen by an international Editorial Board of experts. Third, the site
-                    will be submitted to NINES (Networked Interface for Nineteenth-Century
-                    Electronic Scholarship) for blind vetting in 2011. Once accepted by NINES, The
-                    Yellow Nineties Online will be associated with a large consortium of electronic
-                    scholarship and available for aggregated searches online. At this time, the
-                    editors’ priority in selecting secondary material is to make available a
-                    biography for each person who contributed to, or was associated with, the
-                    individual volumes of The Yellow Book. Each of these biographies is accompanied
-                    by a list of writings by, and about, the contributor. The editors also seek to
-                    publish high-quality essays on relevant aspects of The Yellow Book’s production
-                    and reception as an illustrated periodical. We are particularly interested in
-                    material relating to the aesthetic, bibliographic, cultural, institutional,
-                    personal, and technological contexts of its publication. Editorial Guidelines
-                    for Contributors of Biographies 1. FORMAT and CONTENT TEMPLATE Person’s Name:
-                    FIRST, LAST (BIRTH AND DEATH DATE) (flush left) i.e. Ella D’Arcy (1851-1939)
-                    Biographical Entry: Begins flush left, immediately under person’s name. Left
-                    justified, single-spaced. 500 - 1000 words. Entries should include the
-                    following: a) Brief biographical details focusing on early education, training,
-                    and important influences. b) Extended commentary on career, including important
-                    contributions to literary, artistic, cultural, social and/or publishing history.
-                    Keep quotations from other sources to a minimum. c) Connections to key works,
-                    events, and participants of the Victorian fin de siècle particularly warrant
-                    mention. 2. STYLE All notes, essays, and other editorial apparatuses in The
-                    Yellow Nineties Online follow the MLA Style Guide (6th ed.). Book titles are
-                    italicized, not underlined. Comma before “and” in a serial list (i.e. red, gold,
-                    and green). The Yellow Book, not the Yellow Book. Acceptable abbrev.: YB
-                    Preferred font is Arial 12. The spelling standard is Canadian. </p></editorialDecl></encodingDesc><profileDesc><creation><date>1894</date></creation><langUsage><language ident="en">English</language></langUsage><textClass><keywords scheme="#lcsh"><list><item>English literature -- 19th century -- Periodicals</item><item>Great Britain -- Periodicals</item></list></keywords><keywords scheme="ninesGenre"><list><item>Periodical</item><item>Poetry</item><item>Fiction</item><item>Drama</item><item>Nonfiction</item><item>Visual Art</item><note>Possible genres: Architecture, Ephemera, Music, Poetry, Artifacts,
-                            Fiction, Nonfiction, Religion, Bibliography, History, Paratext, Review,
-                            Collection, Leisure, Periodical, Visual Art, Criticism, Letters,
-                            Philosophy, Translation, Drama, Life Writing, Photograph, Travel,
-                            Education, Manuscript, Citation, Book History, Politics, Reference
-                            Works, Family Life, Law, Folklore, Humor. Please include as many as
-                            apply. Place each in its own item tag </note></list></keywords></textClass></profileDesc></teiHeader><text><body><div n="YBV1_1im" type="image"><figure><graphic width="600px" height="850px" url="MediumImageDocs/Yellow Book Front Cover 600dpi.jpg"/><note n="YBV1_1im.n1"><title>Front Cover</title> YB1icon1 Front Cover Aubrey Beardsley Swan
+                                http://www.1890s.ca/HTML.aspx?s=YBV1_all.html </biblScope>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <p>Introduction. The Yellow Nineties Online publishes primary texts from the 1890s and secondary texts written by critics of fin-de-siècle culture. Both kinds of
+texts are marked up in TEI. As a dynamic structure, a scholarly website is
+always in process. Our decisions in selecting and presenting materials on The
+ Yellow Nineties Online are governed by the following principles. Editorial
+Principles 1. Primary materials Our editorial method for the facsimile editionspublished here is informed by social-text editing principles. The editors understand text as including visual and verbal printed material, including non-referential physical elements such as page design, ornament, and binding. We view any text as the outcome of a collaborative process that has specific material manifestations at precise historical moments. We have chosen to
+ reproduce The Yellow Book in facsimile form at its moment of first publication.
+The social moment—and our editorial horizon—is demarcated by the decade of the
+1890s as experienced in and around the London contexts of The Yellow Book’scontributors and associates. The project’s principal interest is in presenting the text’s physical components in its first edition, with attention to itsproduction and reception. Copy-text for The Yellow Book and any other primary material edited on The Yellow Nineties Online is the first edition unless
+ otherwise noted. The Yellow Book is presented in facsimile, using double-page
+opening of the flip-book function. In addition, the physical features, verbal
+texts, and visual images of each Yellow Book volume are marked up in TEI and available in both xml and PDF formats. Annotations to the facsimile edition are
+kept to a minimum. Commentary is available in the site’s associated secondary
+ materials. 2. Secondary materials In addition to providing the publication
+zNineties ...Preferred font is Arial 12. The spelling standard is Canadian. </p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date>1894</date>
+            </creation>
+            <langUsage>
+                <language ident="en">English</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="#lcsh"><list>
+                    <item>English literature -- 19th century -- Periodicals</item>
+                    <item>Great Britain -- Periodicals</item>
+                </list>
+                </keywords>
+                <keywords scheme="ninesGenre">
+                    <list>
+                        <item>Periodical</item>
+<item>Poetry</item>                   <item>Fiction</item>   
+                        <item>Drama</item>
+                        <item>Nonfiction</item>
+                        
+<item>Visual Art</item>
+<note>Possible genres: Architecture, Ephemera, Music, Poetry, Artifacts,Fiction, Nonfiction, Religion, Bibliography, History, Paratext, Review,Collection, Leisure, Periodical, Visual Art, Criticism, Letters,
+ Philosophy, Translation, Drama, Life Writing, Photograph, Travel,Education, Manuscript, Citation, Book History, Politics, Reference Works, Family Life, Law, Folklore, Humor. Please include as many as apply. Place each in its own item tag </note>
+                    </list>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    
+    <text><body><div n="YBV1_1im" type="image"><figure><graphic width="600px" height="850px" url="MediumImageDocs/Yellow Book Front Cover 600dpi.jpg"/><note n="YBV1_1im.n1"><title>Front Cover</title> YB1icon1 Front Cover Aubrey Beardsley Swan
                         Electric Engraving Company April 1894 Front Cover 21 cm x 15.6 cm Poster
                         style illustrative art Pen and Ink night female figure male figure bow
                         people candle </note><head>Front Cover</head><figDesc>The cover is divided horizontally into three sections The upper section

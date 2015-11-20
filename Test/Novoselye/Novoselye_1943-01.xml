@@ -1,43 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-        <fileDesc>
-            <titleStmt>
-                <title>Encoding of journal Novosselye</title>
+<teiHeader>
+<fileDesc>
+    <titleStmt>
+        <title>The Digital Émigré</title>
+                <title>Encoding of journal Novosselye, No. 9-10, 1943. </title>
+                    <editor>
+                        <persName>Natalia Ermolaev</persName>
+                        <persName>Philip GLeissner</persName>
+                    </editor>
             </titleStmt>
-            <publicationStmt>
-                <p>Publication Information</p>
-            </publicationStmt>
-            <sourceDesc>
-                <biblStruct>
-                    <monogr>
-                        <title level="j">
-                            <seg type="main">НОВОСЕЛЬЕ</seg> </title>
-                        <respStmt>
-                            <persName ref="http://viaf.org/viaf/45942750">София Прегель</persName>
-                            <resp>edt</resp>
-                        </respStmt>
-                        <imprint>
+    <editionStmt>
+        <edition>
+        <date>2015</date>
+         </edition>
+            </editionStmt>
+    <publicationStmt>
+        <publisher>The Digial Émigré</publisher>
+        <idno type="DE_ID">NS_14</idno>
+        <pubPlace>Princeton University</pubPlace>
+        <availability>
+            <p>Usable according to the Creative Commons License<ref target="http://creativecommons.org/licenses/by-nc-sa/3.0/">Attribution Non-commercial Share-alike</ref>.
+            </p></availability>
+    </publicationStmt>
+    <sourceDesc>
+        <msDesc>     <msIdentifier><institution>Princeotn Univeristy Library</institution></msIdentifier>
+        <history>
+            <summary><p>Sold for
+                <measureGrp type="salesprice">
+                    <measure unit="dollars" quantity=".0">50 cents</measure>
+                </measureGrp> </p>
+            </summary>
+        </history>
+        </msDesc>
+        <biblStruct>
+            <monogr>
+                <title level="j">
+                  <seg type="main">НОВОСЕЛЬЕ</seg>
+                  <seg type="sub">ЕЖЕМЕСЯЧНЫЙ ЛИТЕРАТУРНОХУДОЖЕСТВЕННЫЙ ЖУРНАЛ</seg>
+                </title>
+                   <respStmt>
+                       <persName ref="http://viaf.org/viaf/45942750">
+София Прегель</persName>
+     <resp>edt</resp>
+</respStmt>
+                <imprint>
                             <biblScope unit="issue">9-10</biblScope>
                             <date when="1943-01">January 1943</date>
-                            
-                            <respStmt>
-                                <resp>prt</resp>
-                                <orgName>
-                                    <name>L. Rausen</name>
-                                    <address>
-         								<addrLine>510 W. 150 Street510 W. 150 Street</addrLine>
-         							</address>
-                                </orgName>
-                            </respStmt>
-                        </imprint> 
-                    </monogr> 
-                </biblStruct> 
-            </sourceDesc>
-        </fileDesc>
+                    <respStmt>                
+                        <orgName ref=" http://viaf.org/viaf/143457035">
+                            L. Rausen</orgName>
+                        <resp>pbl</resp>
+                        <resp>prt</resp>
+                    </respStmt>
+                            <pubPlace>
+                                <address>
+                           <addrLine>42 EAST 86 SТREET, NEW YORX СIТУ</addrLine>
+                        </address>
+                            </pubPlace>
+                        </imprint>
+                    </monogr>           
+                    </biblStruct> 
+    </sourceDesc>
+    </fileDesc>
     </teiHeader>
     <text>
         <body>
@@ -46,11 +71,7 @@
                 <byline><ref target="#FGR">М. А. АЛДАНОВ</ref></docAuthor></byline><p>
            
     
-<p>, ,,- -; ; ... . • ·.::~\ТУ Ltl1tAR1 с ..
-Rf.Ctl, ~u J А N 1943
-9-10
-1 9 4
-088ELYE
+<p>
 <pb n="3"/>
 Price 50 c~nts
 NOVOSSELYE
