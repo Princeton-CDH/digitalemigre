@@ -24,7 +24,7 @@
             </p></availability>
     </publicationStmt>
     <sourceDesc>
-        <msDesc>     <msIdentifier><institution>Princeotn Univeristy Library</institution></msIdentifier>
+        <msDesc>     <msIdentifier><institution>Princeton Univeristy Library</institution></msIdentifier>
         <history>
             <summary><p>Sold for
                 <measureGrp type="salesprice">
@@ -36,17 +36,17 @@
         <biblStruct>
             <monogr>
                 <title level="j">
-                  <seg type="main">НОВОСЕЛЬЕ</seg>
-                  <seg type="sub">ЕЖЕМЕСЯЧНЫЙ ЛИТЕРАТУРНОХУДОЖЕСТВЕННЫЙ ЖУРНАЛ</seg>
+                  <seg type="main">Новоселье</seg>
+                    <seg type="sub">Ежемесячный литературно-художественный журналЕжемесячный литературно-художественный журнал</seg>
                 </title>
                    <respStmt>
                        <persName ref="http://viaf.org/viaf/45942750">
 София Прегель</persName>
      <resp>edt</resp>
-</respStmt>
+</respStmt> 
                 <imprint>
-                            <biblScope unit="issue">9-10</biblScope>
-                            <date when="1943-01">January 1943</date>
+                       <biblScope unit="issue">9-10</biblScope>
+               <date when="1943-01">January 1943</date>
                     <respStmt>                
                         <orgName ref=" http://viaf.org/viaf/143457035">
                             L. Rausen</orgName>
@@ -55,66 +55,37 @@
                     </respStmt>
                             <pubPlace>
                                 <address>
-                           <addrLine>42 EAST 86 SТREET, NEW YORX СIТУ</addrLine>
+                           <addrLine>42 EAST 86 SТREET, NEW YORK СIТУ</addrLine>           
                         </address>
+                                <geo>40.712784, -74.005941</geo>
                             </pubPlace>
                         </imprint>
                     </monogr>           
                     </biblStruct> 
     </sourceDesc>
     </fileDesc>
+    <profileDesc>
+        <langUsage>
+            <language ident="ru">Russian</language>
+        </langUsage>
+        <textClass>
+            <keywords scheme="lcsh">
+                <list><item>Periodicals</item>
+                    <item>Literature</item> 
+                    <item>Poetry</item>          
+                <item>Russia</item>
+                    <item>Emigration and immigration</item> <item>20th century</item> </list>
+            </keywords>
+        </textClass>
+    </profileDesc>
     </teiHeader>
     <text>
         <body>
-            <div n="Novo_3pr" type="prose"><pb n="1"/>
-                <head><title level="a">TТЬМА</title></head>
-                <byline><ref target="#FGR">М. А. АЛДАНОВ</ref></docAuthor></byline><p>
-           
-    
-<p>
-<pb n="3"/>
-Price 50 c~nts
-NOVOSSELYE
-А RUSSIAN LITERARY MONTHLY
-Editor . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . S. PREGEL
-Editorial and Administrative Offices:
-2 EAST 86 SТREET, NEW YORX СIТУ
-Telephone: RНinelander 4-1800
-СОДЕРЖАНИЕ:
-От редакции . . . . . . . . . . . . . . . . . . . . . . 3
-М. Киинан Роулинrс. По течению . . . . . . . . 5
-Э. Ли Мастере, Дети света . . . . . . 23
-Д. Кэнфильд Фишер. Нам, живым . . . . . . . . . . . . 24
-Г. Л. Менкен. Дни гигантов . . . . . . . . . . . . . . 29
-Р. Мэi{J{енни. Финансовые гении . . . . . . . . 35
-Эптон CинiUiep. Корень всех зол . . . . . . . . . . . . 41
-А. Креймборг. Советскому Союзу . . . . . . . . . . . . . . 45
-А. Комптон. Ученые и война . . . . . . . . . . . . . . 47
-Чарльз А. Бэрд. Возникновение демократической идеи 49
-Роивель Кент. Искусство и война . . . . . . . . . . . . . . 57
-Л. Стоковский. Американская музыка . . . . . . . . . . . . 60
-Г. А. Оверстрит. Американская демократия . . . . . . . . 64
-Ральф Г. Габриэль. Происхождение американской промышлен-
-ной цивилизации . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
-Розвелл Г. Хэм. Знаменательная дата в американск. образовании 81
-Элен Клэйпсеттл. Американский парадокс . . . . . . . . . . . . . .
-Ч. Г. Грэй. Прогрессивное движение в американском восnитании
-Американо-Русская Культурная Ассоциация . . . .
-Сотрудники настоюцеrо номера ...... ......... .... .
-Обложка работы художницы д. Преrель.
-Со всеми типографскими заказами обращаться:
-Rausen 417 Lafayette Str. N. У. С . Phone: GR. 7-6612
-Residence: AU. 3-0310
-НОВО- СЕЛЬЕ
-.N'!! 9-10
-ЕЖЕМЕСЯЧНЫй ЛИТЕРАТУРНОХУДОЖЕСТВЕННЫй
-Ж УРН 'А Л
-под редакцией С. ПРЕГЕЛЬ
-ЯНВАРЬ 1943
-
-ОТ РЕДАКЦИИ
-«Новоселье» посвящает настоящий номер обзору аме·
-риканской жизни и культуры. Материал для этого обзора был
+            <div n="Novo_3pr" type="prose"><pb n="3"/>
+                <head><title level="a">ОТ РЕДАКЦИИ</title></head>
+                <byline>Редакция</byline>
+ <ab>             
+<lb/>«Новоселье» посвящает настоящий номер обзору американской жизни и культуры.<lb/> Материал для этого обзора был
 собран «Американо-Русской Культурной Ассоциацией»
 (АРКА) и предлагаемый выпуск журнала составлен в сотрудничестве
 с нею.
@@ -134,9 +105,9 @@ Residence: AU. 3-0310
 предлагаемые страницы являются, таким образом, результатом
 подлинного сотрудничества редакции, АРКА и авторов настоящего
 номера.
-
+     
     <fw type="pageNum">3</fw>
-    <pb n="3"/> 
+
 
 
 Новоселье
@@ -150,7 +121,7 @@ Residence: AU. 3-0310
 составленный выдающимися американскими писателями. Мы
 надеемся, что это начинание послужит делу более правильного
 и вдумчивого понимания Америки русскими людьми в
-Соединенных Штатах и за их пред елам и.
+Соединенных Штатах и за их пред елам и.  
 
 NOVOSSELYE dedicates this number to ап American cultural symposium
 compiled Ьу the AMERICAN RUSSIAN CULTURAL ASSOCIATION,
@@ -177,6 +148,7 @@ Russian readers а representative compilation of material оn American
 cultural life from the pens of leading Americans, and we trust that this
 will help to bring about enlightened understanding of America Ьу Russians
 in the United States and abroad.
+ </ab>
 <pb n="4"/>
 
 МАРДЖОРИ КИННАН РОУЛИНГС.
