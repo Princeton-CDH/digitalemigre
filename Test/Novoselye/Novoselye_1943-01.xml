@@ -1511,8 +1511,14 @@ From Dragon's Teeth, copyright 1942 Ьу Upton Sinclair, Ьу
 permission. of The Viking Press lnc., New York . .
     <pb n="45"/>
     <div n="Novo_3pr" type="poetry">
-        <byline ref="http://viaf.org/viaf/5727003">Альфред Креймборг</byline>
-        <head><title level="a">Советскому Союзу</title></head>
+        <biblstruct>
+            <respStmt>
+            <persName ref="http://viaf.org/viaf/5727003">Альфред Креймборг</persName>
+                <resp>cre</resp>
+            </respStmt>
+            <textLang mainLang="ru"/>
+            <head><title level="a">Советскому Союзу</title></head>
+        </biblstruct>   
        <p>
         <lb/>Что сказать о стране безмерной,
         <lb/>Солнце мира, звеаде моей,
