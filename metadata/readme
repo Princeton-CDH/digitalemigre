@@ -1,3 +1,17 @@
+#metadata
 Kontinent_Sintaksis_1974_1992.tsv is a tab-separated values txt file.
 It contains information on all contributions to the two journals Kontinent and Sintaksis between 1974 and 1992,
 which were generated on the bases of machine-readable versions of the tables of content of the respective journals.
+The data fields are: 
+JOURNAL = Journal Title
+YEAR = publication year of the issue	
+ISSUE = number of journal issue	
+AUTHOR = author of the contribution	
+FIRST NAME RUS = first name of the author in Russian	
+LAST NAME RUS = last name of the author in Russian	
+VIAF NAME RECONCILIATION = author name as reconciled with VIAF (either in Russian or transliterated) or, if VIAF not available, "LAST NAME RUS, FIRST NAME RUS"
+TRANSLITERATED NAME = Russian name transliterated with Python script (to be added)	
+TITLE	= title of contribution
+STARTING PAGE	= beginning page as referenced in table of contents
+JOURNAL SECTION = category or section of article as determined by journal
+ID = consecutive IDs for contributions, beginning with "Sin" for Sintaksis and "Kon" for Kontinent
