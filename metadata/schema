@@ -1,0 +1,22 @@
+This schema desribes the information gathered about the contributors and contributions that appeared in the journals in our collection.
+
+The data fields are: 
+JOURNAL = Journal Title
+YEAR = publication year of the issue	
+ISSUE = number of journal issue	
+AUTHOR NAME CYRILLIC = name transcribed as appears in journal (usually, though not always in Cyrilic); *this is a label/string only
+AUTHOR NAME ROMANIZED = name transliterated into Roman script *this is a label/string only	
+AUTHOR ID = Internal ID assigned to each creator
+VIAF URL = Author's VIAF URL if available
+ROLE = Author/creator; Editor; Publisher; Translator; 
+TITLE CYRILLIC	= title of contribution
+TITLE ROMANIZED	= (if available)
+START PAGE	= start page
+END PAGE = (if available)
+SECTION = (if available) name of journal section where article appears
+TYPE = (if available) type of contribution: article, editorial, advertisement
+GENRE = (if available) genre of contribution: poetry, prose, essay, criticism, obituary, opinion, letter, memoir
+ORIGINAL LANGUAGE = (if available)
+KEYWORDS = (if available)
+
+
