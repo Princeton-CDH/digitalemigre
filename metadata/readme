@@ -6,7 +6,7 @@ The data fields are:
 JOURNAL = Journal Title
 YEAR = publication year of the issue	
 ISSUE = number of journal issue	
-AUTHOR = author of the contribution	
+AUTHOR = author transcribed as appears in journal's table of contents	
 FIRST NAME RUS = first name of the author in Russian	
 LAST NAME RUS = last name of the author in Russian	
 VIAF NAME RECONCILIATION = author name as reconciled with VIAF (either in Russian or transliterated) or, if VIAF not available, "LAST NAME RUS, FIRST NAME RUS"
