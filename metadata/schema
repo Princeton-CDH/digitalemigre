@@ -1,7 +1,53 @@
 This schema desribes the information gathered about the contributors and contributions that appeared in the journals in our collection.
 
-The data fields are: 
-JOURNAL = Journal Title
+CAPS: tables/entities
+lower case: attributes
+
+JOURNAL  
+journal_id
+journal_title_cyr
+journal_title_rom
+editor_id (if available)
+publisher_id (if available)
+
+ISSUE
+issue_id
+journal_id
+number
+pubdate
+location_id
+editor_id
+publisher_id
+
+LOCATION
+loc_id
+name
+address
+lat
+long
+
+CONTRIBUTION 
+cont_id
+cont_title_cyr
+cont_title_rom
+start_pg
+end_pg
+cont_type [article, editorial, advertisement]
+cont_genre [poetry, prose, essay, criticism, obituary, opinion, letter, memoir]
+lang_original 
+keyword
+
+PEOPLE
+pers_id
+pers_name_cyr
+pers_name_rom
+viaf_url
+
+
+Use cases:
+
+
+
 YEAR = publication year of the issue	
 ISSUE = number of journal issue	
 AUTHOR NAME CYRILLIC = name transcribed as appears in journal (usually, though not always in Cyrilic); *this is a label/string only
