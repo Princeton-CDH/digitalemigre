@@ -4,15 +4,15 @@ CAPS: tables/entities
 lower case: attributes
 
 JOURNAL  
-journal_id
+journal_id (primary key)
 journal_title_cyr
 journal_title_rom
 editor_id (if available)
 publisher_id (if available)
 
 ISSUE
-issue_id
-journal_id
+issue_id (primary key)
+journal_id (foreign key)
 number
 pubdate
 location_id
@@ -20,7 +20,7 @@ editor_id
 publisher_id
 
 LOCATION
-loc_id
+loc_id (primary)
 name
 address
 lat
@@ -38,11 +38,26 @@ lang_original
 keyword
 
 PEOPLE
-pers_id
+pers_id (primary key)
+role_id 
 pers_name_cyr
 pers_name_rom
 viaf_url
 
+CONTRIBUTOR
+cont_
+
+
+
+CONTRIBUTOR-TYPE
+conttype_id
+(author
+
+
+ARTICLE
+article_id (primary key)
+title_cyr
+title_eng
 
 Use cases:
 
